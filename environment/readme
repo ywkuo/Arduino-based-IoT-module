@@ -1,0 +1,11 @@
+Powered by 2.5W solar pannel
+
+Module block diagram
+
+
+LoRa <---->Arduino<----> three DS18b20, one GY39, DS3231
+
+
+GY39: https://www.taiwaniot.com.tw/wp-content/uploads/woocommerce_uploads/2016/10/GY39_manual.pdf
+LoRa module: S76S, http://www.acsip.com.tw/index.php?action=products-detail&fid1=21&fid2=&fid3=&id=73
+LoRa base station: Gemtek LoRa Femto, https://www.gemteks.com/products/lora-iot/gateway
